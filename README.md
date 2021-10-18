@@ -4,9 +4,12 @@
 
 ## Purpose
 
-The purpose of this template is to speed up the creation of new Spring applications within HMCTS
-and help keep the same standards across multiple teams. If you need to create a new app, you can
-simply use this one as a starting point and build on top of it.
+This is the Pre-recorded Evidence project code repository.
+This is the HMCTS DTS Shared Services.
+
+More details are here: https://tools.hmcts.net/confluence/display/S28/Pre-Recorded+Evidence
+
+
 
 ## What's inside
 
